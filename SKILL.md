@@ -33,7 +33,7 @@ description: 将对话内容、知识总结、研究笔记等写入 Obsidian vau
 
 识别内容中的关键概念并用 `[[...]]` 标注。详见 `references/wikilinks.md`。
 
-快速判断：该词是否值得独立成一篇笔记？是 → 加双链。
+快速判断：每个候选词须通过 `references/wikilinks.md` 中的**加链前自检清单**（五条全过才加双链）。
 
 ## Frontmatter 规范
 
